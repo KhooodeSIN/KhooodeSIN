@@ -1,3 +1,4 @@
+<div align = "center>
 # 💫 About Me:
 Python programmer🐍<br>Interested in artificial intelligence🤖<br>Learning to develop🧐<br>studying♾️<br>Ask me any idea you have in mind and I will help you💎<br>"I dont think for you, i just teach you how to think...."
 
@@ -11,7 +12,7 @@ Python programmer🐍<br>Interested in artificial intelligence🤖<br>Learning t
 ![](https://github-readme-stats.vercel.app/api?username=Sauran&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sauran&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sauran&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+![snake gif](https://github.com/Sauran12001/Sauran12001/blob/output/github-snake-dark.svg) 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sauran&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4)
 
