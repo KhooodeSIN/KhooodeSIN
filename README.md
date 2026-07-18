@@ -1,5 +1,5 @@
 # 💫 About Me:
-Interested in artificial intelligence🤖<br>Python 🐍<br>Learning to develop🧐<br>Ask me any idea you have in mind....?<br>""I dont think for you, i just teach you how to think....""
+Interested in artificial intelligence🤖<br>Python 🐍<br>Learning to develop🧐<br>Ask me any idea you have in mind....?<br>""Better Call KhooodeSIN""
 
 
 ## 🌐 Socials:
